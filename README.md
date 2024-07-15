@@ -13,6 +13,5 @@
 | Maths | 100 | 87 |
 | Physics | 100 | 80 |
 | Punjabi | 100 | 97 |
-| Artificial
-Intelligence | 100 | 92|
+| Artificial Intelligence | 100 | 92|
 | English | 100 | 82 |
