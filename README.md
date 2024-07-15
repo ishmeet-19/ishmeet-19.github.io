@@ -1,6 +1,8 @@
 # ishmeet-19.github.io
 **Profile Of** :- Ishmeet Singh Chadha
+
 ![Image](images/image1.jpeg)
+
 # Personal Information
 - **Name** :- Ishmeet Singh Chadha
 - **Age** :- 18
