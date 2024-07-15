@@ -18,3 +18,6 @@
 | Punjabi | 100 | 97 |
 | Artificial Intelligence | 100 | 92|
 | English | 100 | 82 |
+
+# My Blogs 
+[View my blogs](https://ishmeet-19.github.io/Blogs/)
